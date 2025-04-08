@@ -4,7 +4,7 @@ from classifier import classify_topic
 from report_generator import generate_report
 
 if __name__ == "__main__":
-    urls = [
+    urls = [ 
         "https://www.reuters.com/sustainability/climate-energy/",
         "https://climate.weforum.org/",
         "https://www.insurancejournal.com/news/international/climate/",
