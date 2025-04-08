@@ -1,5 +1,5 @@
 ## main.py
-```python
+
 from scraper import scrape_articles
 from summarizer import summarize_article
 from classifier import classify_topic
@@ -28,6 +28,3 @@ if __name__ == "__main__":
         print(f"Category: {r['category']}")
         print(f"Summary: {r['summary']}")
         print(f"Source: {r['url']}")
-```
-
----
