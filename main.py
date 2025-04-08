@@ -26,3 +26,4 @@ if __name__ == "__main__":
         print(f"Category: {r['category']}")
         print(f"Summary: {r['summary']}")
         print(f"Source: {r['url']}")
+
