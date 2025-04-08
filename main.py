@@ -1,5 +1,3 @@
-## main.py
-
 from scraper import scrape_articles
 from summarizer import summarize_article
 from classifier import classify_topic
