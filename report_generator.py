@@ -1,5 +1,5 @@
 ## report_generator.py
-```python
+
 def generate_report(article, summary, category):
     return {
         'title': article['title'],

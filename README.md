@@ -12,7 +12,7 @@ This AI agent scrapes real-time news related to climate and insurance, summarize
 
 ## How to Use
 ```bash
-pip install -r requirements.txt
+
 python main.py
 ```
 
@@ -36,5 +36,17 @@ Hi everyone, this is a quick walkthrough of my Gen-AI Agent for Climate Risk and
 
 Let me run it now... [show output]
 As you can see, the output is a clean structured report that could easily support insurance professionals making risk decisions.
+
+
+python -m pip install newspaper3k
+
+python -m pip install lxml_html_clean
+
+
+python -m pip install openai
+
+
+python -m pip install python-dotenv
+
 
 Thank you!

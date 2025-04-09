@@ -1,5 +1,5 @@
 ## classifier.py
-```python
+
 import re
 
 def classify_topic(summary):
@@ -11,3 +11,4 @@ def classify_topic(summary):
         return "InsureTech"
     else:
         return "Other"
+        
